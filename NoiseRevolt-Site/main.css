@@ -1,0 +1,99 @@
+.crewimage {
+	opacity: 1.0;
+    filter: alpha(opacity=100);  
+}
+
+.crewimage:hover {
+	opacity: 0.5;
+    filter: alpha(opacity=40);
+}
+
+
+.crewimage {
+	display: inline-block;	
+}
+
+.crewimage img {
+	height: 125px; 
+	width: 125px;
+}
+
+
+.mainbackground {
+	background-image: url('purple.jpg');
+}
+
+.mainwhite {
+	background-color: white;
+	height: 100%;
+}
+
+.nav .container .pull-right { height: 22px; }
+
+.nav {
+	background-color: black;
+}
+
+.nav a {
+  color: #fff;
+  font-size: 13px;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #000;
+}
+
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}

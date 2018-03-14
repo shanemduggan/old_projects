@@ -1,0 +1,13 @@
+{
+  "name": "FriendsTimeline",
+  "description": "Displays a timeline of when 100 of your friends started using Twitter",
+  "version": "0.0.1",
+  "dependencies": {
+    "ejs": "~0.8.5",
+    "express": "3.4.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.10",
+    "twit": "1.1.15",
+    "underscore": "^1.8.3"
+  }
+}

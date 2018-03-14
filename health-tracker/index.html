@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/glDatePicker.default.css" rel="stylesheet" type="text/css">
+    <!--<link href='https://fonts.googleapis.com/css?family=Exo+2:400,200,800, 100 italic' rel='stylesheet' type='text/css'>-->
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <title>Health Tracker</title>
+</head>
+
+<body>
+
+<div class="container" id="foodapp">
+        <div class="row text-center">
+            <div class="col-xs=12">
+                <div class="title">Health Tracker</div>
+            </div>
+            <div class="row text-center">
+                <div class="col-xs=12">
+                    <div class="subtitle">watch what you eat</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <!--                 food input field. On keyup, autocompletes from the Nutritionix Database -->
+                    <input type="text" class="form-control center-block" id="new-food" placeholder="TYPE OF FOOD" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul id="autocomplete" class="center-block"></ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-6">
+                    <input type="number" class="form-control input-small pull-right" id="calories" placeholder="CALORIES PER SERVING" />
+                </div>
+                <div class="col-xs-6">
+                    <select id="servings" class="servings form-control input-small pull-left" placeholder="HOW MANY SERVINGS?">
+                        <option value="" disabled selected>SERVINGS</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+
+                    <button id="add-food" class="btn btn-primary addbtn pull-left">ADD</button>
+                </div>
+            <div class="row">
+                <div class="col-xs-12 dateline">
+                    <input class="gldate text-center" id="gldate" type="text" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 center-block text-center">
+                    <ul id="food-list" class="center-block"></ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 text-center calorietotal">
+                    Total for <span class="todaysDate"></span>:
+                    <span class="calTotal"></span> calories
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 text-center center-block">
+                        <button id="reset" class="btn btn-primary">RESET DATABASE</button>
+                    </div>
+                </div>
+    
+				
+	<script id="foodTemplate" type="text/template">
+			<button id='destroy' class='libut'></button>
+            <%= servings %> servings of <%= food %><span class='calContainer'>
+			<span class='DOMcals'><%= calories %> </span> calories</span><br>
+	</script>
+				
+				
+                <!-- dependencies: jQuery, Underscore, Backbone, Firebase, BackboneFire, Bootstrap, glDatePicker, local Backbone files -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.3/backbone-min.js"></script>
+                <script src="https://cdn.firebase.com/js/client/2.3.1/firebase.js"></script>
+				<!--<script src="https://www.gstatic.com/firebasejs/3.0.2/firebase.js"></script> <!-- New firebase ref link -->
+                <script src="https://cdn.firebase.com/libs/backbonefire/0.5.1/backbonefire.min.js"></script>
+                <script src="js/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+                <script src="js/libs/glDatePicker.min.js"></script>
+                <script src="js/models/model.js"></script>
+                <script src="js/collections/collection.js"></script>
+                <script src="js/views/fooditemview.js"></script>
+				<script src="js/views/appview.js"></script>
+				<script src="js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Happy Birthday Glenda</title>
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css">
+    <link href="/public/css/main.css" rel="stylesheet" type="text/css">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+</head>
+
+<body>
+    <div id="header" class="container-fluid">
+        <img src="/public/img/glenda.jpg" />
+        <br />
+        <p class="clementine-text">Glenda's Birthday!</p>
+    </div>
+
+    <div class="modal fade" id="myModal"  tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title">Fill Out Your Card</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Enter Your Name</p>
+                    <input id="name" class="" type="text" value="Name">
+                    <br>
+                    <input id="email" class="" type="text" value="Sample Email">
+                    <br>
+                    <input id="address" class="" type="text" value="Sample Address">
+                    <br>
+                    <input id="message" class="" type="text" value="Add a message">
+
+                    <input id="cardId" class="" type="hidden">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Pick A Different Card</button>
+                    <button type="button" class="btn btn-primary" id="btn-submit">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="card-grid" class="container-fluid">
+    </div>
+
+    <div class="container-fluid">
+        <p id="thanks"></p>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/controllers/messageController.client.js"></script>
+    <script type="text/javascript" src="/controllers/cardController.client.js"></script>
+
+</body>
+
+</html>

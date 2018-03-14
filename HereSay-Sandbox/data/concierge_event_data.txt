@@ -1,0 +1,271 @@
+<html>
+ <body>
+  <p>
+   [
+  </p>
+  <table cellpadding="0" cellspacing="0" class="events-table">
+   \n
+   <thead>
+    \n
+    <tr>
+     <th class="event-time" width="150">
+     </th>
+     \n\t\t\t
+     <th class="event-time" width="150">
+      Date/Time
+     </th>
+     \n\t\t\t
+     <th class="event-description" width="*">
+      Event
+     </th>
+     \n\t\t
+    </tr>
+    \n   \t
+   </thead>
+   \n
+   <tbody>
+    <tr>
+     <td>
+      <img alt="Exodus: A solo exhibition of new work by Carol Es" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2015/02/DSC9365_Ladder_to_Dad.jpeg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                03/21/2015 - 05/09/2015
+      <br/>
+      \n                12:00 am\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/exodus-a-solo-exhibition-of-new-work-by-carol-es/" title="Exodus: A solo exhibition of new work by Carol Es">
+       Exodus: A solo exhibition of new work by Carol Es
+      </a>
+      \n
+      <br/>
+      <i>
+       Shulamit Gallery, Venice CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Explore Venice with the activities and attractions check list! " src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2014/10/10454265_695044410532795_980079797768122341_o-552x4261.jpg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/28/2015
+      <br/>
+      \n                6:00 am - 6:00 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/explore-venice-with-the-venice-activities-and-attractions-check-list-fun-2015-04-28/" title="Explore Venice with the activities and attractions check list! ">
+       Explore Venice with the activities and attractions check list!
+      </a>
+      \n
+      <br/>
+      <i>
+       Venice Beach Boardwalk, Venice CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Time for Happy hour!" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2014/10/Taste-of-Venice-157-X3-552x368.jpg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/28/2015
+      <br/>
+      \n                7:00 am - 11:30 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/time-for-happy-hour-2015-04-28/" title="Time for Happy hour!">
+       Time for Happy hour!
+      </a>
+      \n                \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Santa Monica Food Truck Night" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2014/03/Screen-shot-2013-01-11-at-9.33.14-AM.png&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/28/2015
+      <br/>
+      \n                5:00 pm - 10:00 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/santa-monica-food-truck-night-2015-04-28/" title="Santa Monica Food Truck Night">
+       Santa Monica Food Truck Night
+      </a>
+      \n
+      <br/>
+      <i>
+       Santa Monica Food Truck Lot, Santa Monica CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Open mic at O\'Briens Irish Pub" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2015/02/10352205_813036482064828_5233577958827915858_n.jpg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/28/2015
+      <br/>
+      \n                7:30 pm - 11:30 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/obriens-irish-pub-restaurant-2015-04-28/" title="Open mic at O\'Briens Irish Pub">
+       Open mic at O\'Briens Irish Pub
+      </a>
+      \n
+      <br/>
+      <i>
+       O\u2019brien\u2019s Pub on Main, Santa Monica CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Cocktailoke at Danny\u2019s  - (Karaoke)" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2015/03/web4.jpg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/28/2015
+      <br/>
+      \n                8:00 pm - 10:00 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/karaoke-at-dannys-every-thursday-night-2015-04-28/" title="Cocktailoke at Danny\u2019s  - (Karaoke)">
+       Cocktailoke at Danny\u2019s  - (Karaoke)
+      </a>
+      \n
+      <br/>
+      <i>
+       Danny\u2019s, Venice CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Explore Venice with the activities and attractions check list! " src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2014/10/10454265_695044410532795_980079797768122341_o-552x4261.jpg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/29/2015
+      <br/>
+      \n                6:00 am - 6:00 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/explore-venice-with-the-venice-activities-and-attractions-check-list-fun-2015-04-29/" title="Explore Venice with the activities and attractions check list! ">
+       Explore Venice with the activities and attractions check list!
+      </a>
+      \n
+      <br/>
+      <i>
+       Venice Beach Boardwalk, Venice CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Time for Happy hour!" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2014/10/Taste-of-Venice-157-X3-552x368.jpg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/29/2015
+      <br/>
+      \n                7:00 am - 11:30 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/time-for-happy-hour-2015-04-29/" title="Time for Happy hour!">
+       Time for Happy hour!
+      </a>
+      \n                \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Bank of Venice Open Mic Night" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2014/08/bankofv.jpg&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/29/2015
+      <br/>
+      \n                8:00 pm - 11:30 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/bank-of-venice-open-mic-night-2015-04-29/" title="Bank of Venice Open Mic Night">
+       Bank of Venice Open Mic Night
+      </a>
+      \n
+      <br/>
+      <i>
+       Bank of Venice, Venice CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+    <tr>
+     <td>
+      <img alt="Venice Underground Comedy &amp; Burlesque" src="http://www.theveniceconcierge.com/wp-content/plugins/events-manager/includes/thumbnails/timthumb.php?src=http://www.theveniceconcierge.com/wp-content/uploads/2014/03/Screen-shot-2011-07-11-at-5.17.54-PM-552x380.png&amp;h=0&amp;w=150" width="150"/>
+     </td>
+     \n\t\t\t
+     <td>
+      \n                04/29/2015
+      <br/>
+      \n                9:00 pm - 11:00 pm\n
+     </td>
+     \n
+     <td>
+      \n
+      <a href="http://www.theveniceconcierge.com/calendar/free-comedy-every-wednesday-at-the-townhouse-del-monte-speakeasy-2015-04-29/" title="Venice Underground Comedy &amp; Burlesque">
+       Venice Underground Comedy &amp; Burlesque
+      </a>
+      \n
+      <br/>
+      <i>
+       Townhouse, Venice CA
+      </i>
+      \n
+     </td>
+     \n
+    </tr>
+   </tbody>
+  </table>
+  ]
+ </body>
+</html>

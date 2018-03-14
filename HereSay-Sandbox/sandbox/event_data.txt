@@ -1,0 +1,87 @@
+<html>
+ <body>
+  <p>
+   [
+   <span class="indexed-biz-name">
+    1.
+    <a class="biz-name" data-hovercard-id="4I1kSs8WwR4GV6iEaOb12g" href="/biz/menottis-coffee-stop-venice">
+     Menotti\u2019s Coffee Stop
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    2.
+    <a class="biz-name" data-hovercard-id="wXqzjb0X25Sx578wSSTGaQ" href="/biz/el-huarique-venice">
+     El Huarique
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    3.
+    <a class="biz-name" data-hovercard-id="uCVGirlHzww2uD0MNuExcQ" href="/biz/venice-canals-venice-2">
+     Venice Canals
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    4.
+    <a class="biz-name" data-hovercard-id="kd0PrMKfk9NvE4jSeeGRvA" href="/biz/zeldas-corner-deli-venice">
+     Zelda\u2019s Corner Deli
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    5.
+    <a class="biz-name" data-hovercard-id="fWvhInJAyLijw0yURxch_A" href="/biz/the-big-daddy-shack-venice-5">
+     The Big Daddy Shack
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    6.
+    <a class="biz-name" data-hovercard-id="xWkLlnvawoPHzYcCW23e1w" href="/biz/intelligentsia-coffee-venice">
+     Intelligentsia Coffee
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    7.
+    <a class="biz-name" data-hovercard-id="Ke0e0NchGN7ZoqavAmyjSQ" href="/biz/centanni-trattoria-venice">
+     Centanni Trattoria
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    8.
+    <a class="biz-name" data-hovercard-id="oupx0fBudNJewLvAe0JRtg" href="/biz/toms-flagship-venice">
+     TOMS Flagship
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    9.
+    <a class="biz-name" data-hovercard-id="kJJrFTBkuPcfxLL6EWWwwA" href="/biz/la-isla-bonita-venice">
+     La Isla Bonita
+    </a>
+    \n
+   </span>
+   ,
+   <span class="indexed-biz-name">
+    10.
+    <a class="biz-name" data-hovercard-id="0kI7rJh5wb8a8nRCuCXKXQ" href="/biz/gunpowder-venice-2">
+     Gunpowder
+    </a>
+    \n
+   </span>
+   ]
+  </p>
+ </body>
+</html>

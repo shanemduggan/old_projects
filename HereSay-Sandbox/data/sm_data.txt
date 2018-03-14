@@ -1,0 +1,3561 @@
+<html>
+ <body>
+  <p>
+   [
+  </p>
+  <div class="evnt-item" id="event9472">
+   \n\t\t\n\t\t
+   <h2>
+    The Little Mermaid
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     04/18/2015 - 05/17/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     2:00 \u2013 3:00PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Creating Arts Studios, 3110 Pennsylvania Ave.
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Ticket Sales
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 804-0223
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $15.00 General Admission
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@creatingarts.org">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.creatingarts.org/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nCome join us in the classic Hans Christian Anderson tale of the teenage mermaid who falls in love with a human prince. She is willing to give up her life under the sea to become a human but finds out making a deal with the sea witch can lead to trouble!\nThis adventure is audience interactive and will have children from ages 4 to 90 singing along, cheering for the hero\u2019s and booing for the villains!\nThe show begins at 2pm and runs for 60 minutes. Stay after the show to meet your favorite characters!\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9454">
+   \n\t\t\n\t\t
+   <h2>
+    14th Annual Dance Media Festival
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     04/30/2015 - 05/05/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring daily
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     7:30pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Aero Theatre, 1328 Montana Avenue
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Dance Camera West
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 248-4944
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $11
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:office@dancecamerawest.org">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.dancecamerawest.org" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nCelebrating the vibrant art of dance, Dance Camera West (DCW) presents the 14th Annual Dance Media Festival, a public event incorporating dance explored through film and live performance. Taking place at various venues in Beverly Hills (UTA Screening Room), Downtown Los Angeles (MOCA, historic Palace Theatre, REDCAT), Hollywood (historic Egyptian Theatre), Santa Monica (Aero Theatre), and Westwood (Crest Theater, UCLA) from April 30 \u2013 May 5, 2015, this multi-disciplinary festival promises to offer something for everyone and will showcase many forms of dance including modern, post modern, world, tap, dance theater, ballet, hip-hop and practically all dance that has been captured on film in a way that is of quality and essential value. Over 30 films will be screened over the course of the Festival connecting diverse cultures and environments through the exploration of dance. \nSaturday, May 2 at The Aero Theatre will be"\nI Hate Dancing," the repulsive nature of dance as told through dance.\nAlso, showing is "American Cheerleader," set in the competitive world of cheerleading, the journey of two high school teams vying for the coveted National High School Cheerleading Championship Title. \n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9469">
+   \n\t\t\n\t\t
+   <h2>
+    High5 Art Show At Schomburg Gallery
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/02/2015 - 05/29/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring every 4 weeks on Wednesday, Thursday, Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Opening Reception May 9, 4 - 7 p.m. Show runs through May 29
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Schomburg Gallery, Bergamot Station, 2525 Michigan Avenue, Unit E3A
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Jeanne Hahn
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (818) 885-8306
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:JeanneHahn@aol.com">
+       Send e-mail
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nSchomburg Gallery presents a group show of new work by Co-op7 artists: Selina Cheng, Guilda Daniel-Elias, Caren Gefni, Susan Gesundheit. and Eileen Hecht. These works explore mood, sensitivity and power through a variety of mediums.\nOpening Reception Saturday May 9, 4 - 7 p.m. Public invited.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9510">
+   \n\t\t\n\t\t
+   <h2>
+    Human Rights Watch Film Screening and Panel Discussion of Homestretch
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/02/2015
+    </li>
+    \n\t\t\t
+    <li>
+     <b>
+      Times:
+     </b>
+     Doors 5:00 pm; Meet &amp; Greet 6:00 pm; Film Screening &amp; Panel 8:00 pm; Reception following
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Ann and Jerry Moss Theater at New Roads School, 3131 Olympic Blvd.
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Perrine Vaillant
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 477-5540
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Tickets
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:perrine.vaillant@hrw.org">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://hrw.org/los-angeles" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nTwo to three thousand homeless children walk the streets of Chicago every night. The Homestretch follows three homeless teens as they fight to stay in school, graduate, and build a future. Through haunting images, intimate scenes, and first-person narratives, Kasey, Anthony and Roque take the audience on their journeys of struggle and triumph. As their stories unfold, the film successfully exposes larger policy issues of juvenile justice, immigration, foster care, and LGBTQIA rights.\nJoin us after the movie with The Homestretch Director Anne de Mare and Human Rights Watch LGBT Director Graeme Reid, for a discussion moderated by Melissa Schoonmaker from the Los Angeles County Office of Education. \n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9456">
+   \n\t\t\n\t\t
+   <h2>
+    INCOGNITO 2015
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/02/2015
+    </li>
+    \n\t\t\t
+    <li>
+     <b>
+      Times:
+     </b>
+     7:30 to 9:30 pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Santa Monica Museum of Art, 2525 Michigan Avenue, G-1
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 586-6488
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $150+
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@smmoa.org">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://smmoa.org/support/incognito/incognito-2015-2/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nSMMoA\u2019s legendary INCOGNITO benefit art sale returns for its eleventh year. Bringing together a breathtaking array of 700 artworks donated by local, national, and international artists ranging from emerging to acclaimed, INCOGNITO is a rare celebration of access, diversity, and discovery in contemporary art. All proceeds support the Museum\u2019s free exhibitions and programming.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9482">
+   \n\t\t\n\t\t
+   <h2>
+    Wanderlust 108
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/02/2015
+    </li>
+    \n\t\t\t
+    <li>
+     <b>
+      Times:
+     </b>
+     9:30 AM - 5:00 PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Santa Monica Pier, 200 Santa Monica Pier
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $50
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://wanderlust.com/events/about-wanderlust-108/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nWanderlust 108 is a triathlon unlike any you\u2019ve ever known. This \u201cmindful triathlon\u201d brings three events together in your favorite local park: a 5k run, an outdoor yoga experience, and a guided meditation \u2014 but with a twist. Unlike most triathlons, we place community above competition, inner peace above power, and self-awareness above strength. We prefer slow food to fast run times. While we\u2019re pretty sure you\u2019ll be challenged during the day, we are equally sure you\u2019ll have a great time doing so. From live bands and DJs on our main stage, to lawn activities like hooping and acroyoga, to our local food and craft vendors, there\u2019s a lot to do when you\u2019re not on your mat.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event523">
+   \n\t\t\n\t\t
+   <h2>
+    American Cinematheque Screenings: Aero Theatre
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     01/01/2008
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring daily
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1328 Montana Avenue at 14th Street
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (323) 466-3456
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Tickets $10 or $7 for members
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.americancinematheque.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nMovie presentations by American Cinematheque, a non-profit, viewer-supported cultural organization, dedicated to the public presentation of the moving picture in all its forms, from classics to the outer frontiers of the art form. Weekly screenings of art, independent and classic films. Also sneak peaks of upcoming movies with celebrity guest appearances and discussions with film-makers. Call for program information: 323-466-3456. Tickets $10 or $7 for members. \n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event1576">
+   \n\t\t\n\t\t
+   <h2>
+    Downtown Farmers\' Market
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     01/02/2008
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Wednesday 8:30am-1:30pm; Saturday 8:30am-1:00pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Arizona Avenue between Second and Third Street
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 458-8712
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.smgov.net/farmers_market/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nEnjoy one of Santa Monica\'s farmers markets, widely considered to be\namong the best on the west coast and featuring field-fresh produce,\nhundreds of kinds of vegetables, brilliant cut flowers, breads,\ncheeses, delicious foods, live music and more.\n
+   </p>
+   \n
+   <p>
+    \nFarmers\' Market Locations: Wednesdays at Arizona Ave &amp; 2nd St and Saturdays at Arizona &amp; 3rd St\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event1577">
+   \n\t\t\n\t\t
+   <h2>
+    Pico Farmers\' Market
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     01/05/2008
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     8:00am-1:00pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Virginia Park at Pico and Cloverfield
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 458-8712
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.smgov.net/farmers_market/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+    Enjoy one of Santa Monica\'s farmers markets, widely considered to be\namong the best on the west coast and featuring field-fresh produce,\nhundreds of kinds of vegetables, brilliant cut flowers, breads,\ncheeses, delicious foods, live music and more.
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event547">
+   \n\t\t\n\t\t
+   <h2>
+    Santa Monica Conservancy Walking Tours of Downtown Santa Monica
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     01/05/2008
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Every Saturday morning, 10am
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1436 2nd St (between Broadway and Santa Monica Blvd)
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 496-3146
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $5 for members, $10 for public
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:dwt@smconservancy.org">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.smconservancy.org/walking_tour.shtml" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nPresented by the Santa Monica Conservancy, discover more than 130 years of Santa Monica history. In approx. 2 hours and six blocks, the\nwalk traverses more than 130 years of Santa Monica History, from its\nWild West frontier beginnings to the sophisticated metropolis of today. RSVP the Thursday prior to the tour at (310) 496-3146. \n
+   </p>
+   \n
+   <p>
+    \nTours are every Saturday morning, $5 for members, $10 for public. Parking is available in the city parking structure opposite the hostel\non the east side of 2nd Street. Wear comfortable walking shoes. Note\nthat this tour is not suitable for young children.
+    <br/>
+    \n
+    <br/>
+    \nTours are rain or shine, but "rain checks" are offered if you call or email to reschedule.   \n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event1579">
+   \n\t\t\n\t\t
+   <h2>
+    Main Street Farmers\' Market
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     01/06/2008
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     9:30am-1:00pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Main Street at Ocean Park Boulevard
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 458-8712
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.smgov.net/farmers_market/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nEnjoy one of Santa Monica\'s farmers markets, widely considered to be\namong the best on the west coast and featuring field-fresh produce,\nhundreds of kinds of vegetables, brilliant cut flowers, breads,\ncheeses, delicious foods, live music and more.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event424">
+   \n\t\t\n\t\t
+   <h2>
+    Santa Monica Outdoor Antique &amp; Collectible Market
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     01/27/2008
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring monthly on the 4th Sunday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Every 4th Sunday of the month, 6:00am - 8:00am $7.00 8:00am - 3:00pm $5.00
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Santa Monica Airport, in the parking lots at Airport Ave and Bundy Drive
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (323) 933-2511
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Seniors $3.00 Age 16 &amp; Under Free We Welcome Your Friendly Dog
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://santamonicaairportantiquemarket.com/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nFun outdoor antique and collectible market, many great dealers with many\ntreasures, dog friendly, home cooked food. Every 1st &amp; 4 Sundays. \nLocated on the south side of the Santa Monica Airport.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event2659">
+   \n\t\t\n\t\t
+   <h2>
+    Heal One World Free Yoga
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     06/22/2010
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Tuesday, Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Tuesdays 5:15-6:20pm, Wednesdays 1:00pm-2:00pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1318 2nd St, #21
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 826-1971
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free (donation only basis)
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:skye@healoneworld.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://healoneworld.org/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nFREE (donation only basis) classes for beginners in need of Wellness Help.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event3872">
+   \n\t\t\n\t\t
+   <h2>
+    Santa Monica Downtown Walking Tours
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     02/04/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring daily
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     as early as 7:00am up until dark
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Downtown Santa Monica, Main St., &amp;/or Montana Ave
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 595-4526
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $20.00 per person
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@santamonicawalkingtours.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.santamonicawalkingtours.com/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+    Guided, exciting &amp; informative "Daily" Santa Monica Walking Tours in Downtown Santa Monica, Main St., &amp;/or Montana Ave. All Walking Tours honor the greatness of our popular city by the beach! Energetic, year around, varied Walking Tours, Shopping Tours, Walking Fitness, "Talk Walks", etc., highlight Santa Monica\'s "Hottest" Stores, Restaurants, Art, Entertainment, Sustainability, City Involvement, New Happenings, Special Events, &amp; History, with entertaining stories/surprises designed to create lasting memories! Our Walking Tours promote fitness as well! Individuals/Groups/Privates are welcome! Approximately 2 hour Walking Tours. The "Santa Monica Downtown Walking Tours" (varied walking tours) are "open hours" by schedule via phone or e-mail scheduled appointments.
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4039">
+   \n\t\t\n\t\t
+   <h2>
+    Santa Monica Bay Woman\'s Club Artists League
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     02/15/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Tuesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Tuesdays 10 am to 1 pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1210 4th Street
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Santa Monica Bay Woman\'s Club
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 310-2273
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:artistsleague.smbwc@gmail.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.smbwc.org" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+    Join fellow artists every Tuesday from 10 am to 1 pm to work on your own projects in watercolor, gouache, acrylic or collage.  Our historic building provides a quiet space that will allow your creativity to blossom and working with other artists will provide you with valuable feedback and new inspiration.
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4104">
+   \n\t\t\n\t\t
+   <h2>
+    Shark Sundays at the Santa Monica Pier Aquarium
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     03/06/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     3:30 p.m.
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Santa Monica Pier Aquarium, 1600 Ocean Front Walk
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (800) HEAL-BAY
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.healthebay.org/Santa-Monica-Pier-Aquarium/Plan-Your-Visit/weekly-presentations" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+    Shark Sundays are a favorite weekly feature at the \nAquarium. At 3:30 p.m. every Sunday, you can watch and listen to an \ninformative presentation about these often misunderstood animals while \nour horn and swell sharks cruise around the tank, noses out of the \nwater, mouths open, anticipating the meal to come.\xa0 Expect a splash of \nseawater if you\u2019re close enough to the exhibit. Watch a shark-themed \nfilm \u2013 they\u2019re shown at scheduled intervals throughout the afternoon. Also, stop by our pier exhibit, and see if you can find our Pacific \nangel shark. Everyone is invited to make a fun shark craft project to \ntake home.
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4201">
+   \n\t\t\n\t\t
+   <h2>
+    Santa Monica: A Journey Into An Extraordinary Past Permanent Exhibit Gallery
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     03/30/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Tuesday, Wednesday, Thursday, Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Tuesdays &amp; Thursdays 12pm - 8pm Wednesdays, Fridays &amp; Saturdays 10am - 5pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Santa Monica History Museum, 1350 Seventh Street
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 395-2290
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $5 general, $3 seniors &amp; students, free for children under 12
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.santamonicahistory.org/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nCome experience the remarkable chapters of Santa Monica\u2019s history in the \npermanent exhibit gallery. Place yourself in the front-page news of a \npast era, explore Santa Monica landmarks, or step into a re-created \nsection of a Douglas C-47. Here you will discover the compelling people \nand stories that have shaped the extraordinary city of Santa Monica.\n
+   </p>
+   \n
+   <p>
+    \nFour themed exhibit rooms delve into \nthe rich and colorful history of Santa Monica: A Town in the Arts, A Town in \nthe News, A Town at Work, and A Town at Play. Each themed exhibit showcases \noriginal artifacts, photographs, and documents. In addition, there are three \nhands on interactive exhibits that bring the history to life. \n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4652">
+   \n\t\t\n\t\t
+   <h2>
+    The Grind @ M.i.\'s Westside Comedy Theater
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     06/23/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Thursday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     10:00 PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1323-A 3rd Street Promenade (in the alley between 3rd and 4th Streets)
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://westsidecomedy.com/show.cfm?id=270493&amp;" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nThe Grind is M.I.\'s Westside Comedy Theater\'s flagship long form improv show. Incredible improv brought to you by the guys who own and run the theater. The cast has been performing together for over a decade. \xa0Come see what many people consider their favorite improv show in Los Angeles. A new standup opener every week. This show is free and 18+. Featuring improvisers from The League, Modern Family, Justified, Jimmy Kimmel Live!, Funny or Die, Playboy TV, Manswers, MadTV, the host of Speed Channel\'s The List and the co-creator/star of Epic Rap Battles of History!\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4653">
+   \n\t\t\n\t\t
+   <h2>
+    The Jam @ M.i.\'s Westside Comedy Theater
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     06/23/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Thursday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     11:00 PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1323-A 3rd Street Promenade (in the alley between 3rd and 4th Streets)
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Sean Casey
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 451-0850
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free!
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:casey@westsidecomedy.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://westsidecomedy.com/index.php?option=com_registrationpro&amp;view=event&amp;did=2826&amp;Itemid=27&amp;shw_attendees=0" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+    The Jam is the WCT\'s weekly open improv show where anyone from the audience can come onstage and try their hand at improv comedy. Hosts Cole Stratton and Morgan Christensen draw names at random to jump up on stage and perform 2-to-3-person scenes.  After everyone has performed, all are invited onstage for a free-form montage.
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4649">
+   \n\t\t\n\t\t
+   <h2>
+    The Mission IMPROVable Show
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     06/24/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     10:00 PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1323-A 3rd Street Promenade (in the alley between 3rd and 4th Streets).
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Sean Casey
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 451-0850
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $10.00
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:casey@westsidecomedy.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://westsidecomedy.com/show.cfm?id=252804&amp;" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nMission IMPROVable is award winning, high-energy explosive improv show with lots of audience interaction! Every Friday and Saturday at 10PM. \xa0Members of Mission IMPROVable have had roles on such shows as Jimmy Kimmel Live, Modern Family, Family Guy, American Dad, The Cleveland Show, Speed Channel Host, Brothers &amp; Sisters, Parenthood, Justified, Epic Rap Battles of History (Over a billion series downloads, 4 Streamy Awards this year), multiple national commercials, and thousands of live shows in over 7 countries and all 50 states. Mission IMPROVable is a 9 time nominee for Comedy Act of the Year, 2011 Winner of that award. They are the 2012 National Entertainer of the Year winners. They\'ve also performed as part of Lollapalooza and on Disney\'s cruise ship!\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event3514">
+   \n\t\t\n\t\t
+   <h2>
+    Marion Davies Guest House &amp; Docent Tours
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     06/25/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday, Monday, Thursday, Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Annenberg Community Beach House, 415 Pacific Coast Highway
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 458-4904
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:beachhouse@smgov.net">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://beachhouse.smgov.net" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nLearn about the rich history of the Beach House from a Santa Monica \nConservancy docent. Tours are free, last approximately 30 minutes, and \nno reservations are\xa0required. \n
+   </p>
+   \n
+   <p>
+    \nThe Guest House is scheduled to be open from
+    <strong>
+     11am-2pm
+    </strong>
+    on dates listed below, unless otherwise noted, with tours beginning at 11am, 12pm &amp; 1pm.
+    <strong>
+     Guest House hours are subject to change.
+    </strong>
+    \xa0Changes\nto the below schedule will be posted with as much notice as \npossible.\xa0Please call the day before you plan to visit to confirm.\xa0The \nGuest House may close in instances of inclement weather.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4691">
+   \n\t\t\n\t\t
+   <h2>
+    Food Truck Bazaar at California Heritage Museum
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     07/12/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Tuesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     5:30pm-9:30pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     California Heritage Museum, 2612 Main St
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 392-8537
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:calmuseum@earthlink.net">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.californiaheritagemuseum.org/events.html" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+    Gourmet Food Trucks, sit-down eating accommodations and facilities. Free parking in the Museum parking lot. Metered parking in the adjacent lots. Free bicycle valet! Proceeds benefit the Museum.
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event5158">
+   \n\t\t\n\t\t
+   <h2>
+    Comedy Nights in the Basement
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     10/05/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     8pm-12midnight
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Yankee Doodles - 1410 Third Street Promenade
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Jordan Reynolds
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 985-4143
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free w/ $20 minimum purchase during show
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:events@yankeedoodles.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.facebook.com/yankeedoodles1" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nStand-Up Comedy Night - Hosted by LA\'s #1 Comedy Show Producer Jay Davis.\nTalent from Comedy Central, Showtime Presents, and HBO specials.  Many comedians have headlined their own US and International tours.\nPlease join us at The Basement Under Yankee Doodles for great food, cold beverages, and superior service! No cover!\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4992">
+   \n\t\t\n\t\t
+   <h2>
+    Gallery at Annenberg Community Beach House
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     10/10/2011
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday, Monday, Wednesday, Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     9-3pm, Gallery hours are subject to change. Upcoming closures will be posted here with as much notice as possible.
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Annenberg Community Beach House, 415 Pacific Coast Highway
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 458-4904
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:beachhouse@smgov.net">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://beachhouse.smgov.net" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nCultural Abstraction, Contemporary Figurations: the Work of Seven Contemporary Figurative Painters in Santa Monica. \n
+   </p>
+   \n
+   <p>
+    \n
+    <br/>
+    \nJuly 28 - December 4, 2011\n
+    <br/>
+    \nAn exhibition of work by seven artists from the Santa Monica College Art Mentor Program. Francisco Cabas, Quinne Larson, Abdul Mazid, Kathleen Melian, Jessica Nicol, Elizabeth Weber and Elena Wolek spin the narrative in their work into a thread that joins seemingly incongruent concepts in a visual dialogue, investigating and reporting ideas about cultural identity, gender empowerment, dislocation, consumption and human regeneration. The works display constant movement in delicate balance between figurative and abstract representations.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event5339">
+   \n\t\t\n\t\t
+   <h2>
+    "Emerging Artists for Emerging Collectors" Art Opening / Artist Reception
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     01/06/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring every 2 weeks on Friday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     5 - 8 pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     haleARTS S P A C E
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Sean Hemeon
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 314-8038
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@haleasts.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.halearts.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \n"Emerging artists for emerging collectors"\n- New local artist featured every other friday with reception.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event5624">
+   \n\t\t\n\t\t
+   <h2>
+    Brett Young at Sonoma Wine Garden
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     03/13/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Tuesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     6:30pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Sonoma Wine Garden, 395 Santa Monica Place, 3rd Floor Dining Deck
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (424) 214-4560
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.sonomawinegarden.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nJoin Brett Young and special guests, every Tuesday night for a live music set at 6:30pm on our garden patio.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event6077">
+   \n\t\t\n\t\t
+   <h2>
+    Paint, Wine and Cheese Nights
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     07/07/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     6pm-9pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     2912 Main Street, Santa Monica, CA 90405
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     info@paintlab.net
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 450-9200
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $30.00 + cost of canvas
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@paintlab.net">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.paintlab.net" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nNeed some guidance and some liquid inspiration to get in the creative mood?\nTry our Instructed Paint, Wine, and Cheese Workshops! \nIt\u2019s fun and social, and our instructors walk you through the steps to \nhelp you create your own beautiful piece of art, which make great gifts \nor souvenirs. Price includes instruction, paints, brushes, and complimentary refreshments \nand we cleanup for you! Ask us about other dates available. \nCall to reserve.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event6085">
+   \n\t\t\n\t\t
+   <h2>
+    Painter\'s Breakfast at Paint:Lab
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     07/08/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     10AM-1PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     2912 Main Street, Santa Monica, CA 90405
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     info@paintlab.net
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 450-9200
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $25.00 + the cost of canvas
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@paintlab.net">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.paintlab.net/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nStart your Sunday morning off on the creative side of the bed, filled with painting, coffee, tea and a light breakfast fare.\nPainters Breakfast @ Paint:Lab \nSundays from 10am \u2013 1pm.\n$25 plus the cost of your canvas **\nIncludes all the brushes, paints, easels, set up and cleanup, coffee, tea, oatmeal or bagel.\n**mention this post for a 10% discount on your canvas purchase**\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event4105">
+   \n\t\t\n\t\t
+   <h2>
+    Story Time at the Santa Monica Pier Aquarium
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     08/04/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     3:30 p.m.
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Santa Monica Pier Aquarium, 1600 Ocean Front Walk
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 393-6149
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.healthebay.org/santa-monica-pier-aquarium/plan-your-visit/weekly-presentations" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nJoin us every Saturday at 3:30 p.m. for a whale of a tale! The Santa Monica Pier Aquarium will host story time in the Dorothy Green Room. Children (and adults) love to hear a good story, and the Aquarium has a nearly endless supply of books celebrating life of the sea. Join us any Saturday for a fun-filled story time. And while you\'re here, be sure to get a hug from a sea urchin, check out the new-born sharks in the nursery, make a marine-themed craft to take home and learn about the more than 100 species on exhibit - all marine life found in the Santa Monica Bay. \n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event6185">
+   \n\t\t\n\t\t
+   <h2>
+    Hump Day Food Trucks
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     08/08/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Lunch hours are 10am-3pm, Dinner hours are 4-9pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     1401 Santa Monica Boulevard
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nOfficially called Hump Day Lot, a collection of food trucks will be \navailable every Wednesday featuring easy access parking for bikes and\nvehicles alike. The food trucks will be located at 1401 Santa Monica \nBoulevard, which is at the corner of 14th and Santa Monica. \n
+   </p>
+   \n
+   <p>
+    \nAs many as six trucks may be on site at once, serving lunch from 10 a.m. to 3 p.m. and then dinner from 4 p.m. to 9 p.m. Entertainment will also be available in the form of music by The \nCentral, a \u201csocial aid and pleasure club,\u201d from noon to 9 p.m. \n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event6182">
+   \n\t\t\n\t\t
+   <h2>
+    Wine Wednesdays at The Buffalo Club
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     08/08/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     6:00 PM - 8:00 PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Buffalo Club, 1520 Olympic Blvd.
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 450-8600
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $24
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:reservations@buffaloclub.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.buffaloclub.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \n\xa0Our Certified Sommelier, Brayner Ferry, will be describing, pouring and teaching you about selected wines every Wednesday at our Garden Courtyard Lounge. It\'s casual; arrive anytime. Wines are accompanied by an assortment of artisan cheeses. If you stay for dinner, enjoy 50% off any wine from our Garden Courtyard list.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event6565">
+   \n\t\t\n\t\t
+   <h2>
+    Harlow Gold at Harvelle\'s
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     10/25/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Thursday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Doors open at 8pm; Shown starts at 10pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Harvelle\'s, 1432 4th St.
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     General Admission: $25; VIP premium reserved: $50
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.harlowgoldshow.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nIn the mood for something a little different? The Harlow Gold show at Harvelle\'s is the perfect recipe for a fun night out. Providing LA\'s only modern cabaret review, the dancers will amaze with their superbly choreographed\xa0performances that occur throughout the entire room. Sit back and hold onto your drinks, the show will come to you! \n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event6729">
+   \n\t\t\n\t\t
+   <h2>
+    First Friday Sessions
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     12/07/2012
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring monthly on the 1st Friday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     8pm-2am
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Harvelles
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Harvelles, 1432 Fourth St
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 395-1676
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $10.00
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.harvelles.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nCome enjoy an eclectic night of live music, featuring signed and unsigned local and national artist from all genres of music, including singer songwriters, funk n\'soul, indie rock  and anything that will make you dance and enjoy your Friday night out on the town! Check out Harvelles.com for artlist line up.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event7356">
+   \n\t\t\n\t\t
+   <h2>
+    Kids Weekend Art Camp
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/18/2013
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     10:00am-1:00pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     2912 Main Street, Santa Monica, CA 90405
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Paint Lab
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 450-9200
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $55 includes all materials
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@paintlab.net">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.paintlab.net/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nBring your child to come enjoy our Kids Weekend Art Camp on Saturdays &amp; Sundays! Open to ages 5 - 12yrs old. $55 includes all art materials (instruction, paint, brushes and paper).\nChoose from individual lessons or a multi-week lesson plan. Reservations required. Mention this add for a 5% discount on one child or signing up more then one child, up to 10% off per child, same day.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event7418">
+   \n\t\t\n\t\t
+   <h2>
+    Community Dinners at RAWvolution
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     06/12/2013
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     7pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Euphoria Loves Rawvolution, 2301 Main St
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 392-9501
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $20
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.euphorialovesrawvolution.com/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nRAWvolution hosts a weekly dinner series with live music. The multi-course raw/vegan menu includes cheese &amp; crackers plate, choice of two soups and a large Radiance salad. You can also order a la carte.\xa0Candlelight dinner, great atmosphere and Open Mic showcase at the end of the night, 7pm every Wednesday.\xa0Bring your own wine and we\'ll uncork it for you!\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event8904">
+   \n\t\t\n\t\t
+   <h2>
+    Chris Vincent - One Man Band @ The Craftsman Bar and Kitchen
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     08/27/2014
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     10pm-1am
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     119 Broadway
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     The Craftsman Bar &amp; Kitchen
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 395-6037
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:admin@limitlesshg.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.thecraftsmanbar.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nChris Vincent is a Seattle born guitarist &amp; singer.  His One Man Band show consists of stripped down acoustic blues versions of classic rock and contemporary favorites.   \n21+ Event,\nNo Cover.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9054">
+   \n\t\t\n\t\t
+   <h2>
+    Traditional Irish Music Sundays with the Brilliant Gypsies
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     10/19/2014
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring every 2 weeks on Sunday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     5-8pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Finn McCool\'s, 2702 Main Street
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Peter Romano
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 452-1744
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:media@finnmccoolsirishpub.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.finnmccoolsirishpub.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nPeter Romano and The Brilliant Gypsies perform every other Sunday at Finn McCool\'s Irish Pub in Santa Monica. This acoustic line-up showcases the musicians\' mastery of traditional Celtic instruments, and an innate ability to charm and captivate any audience. Prepare for toe-tapping (at the very least) as they blend rousing favourites and familiar melodies with a haunting ballad or two. \nKids Eat Free* on Sundays, so bring the whole family -- and your kids will love joining in with a jig or two up and down the aisles.\nSl\xe1inte.\n*One free kiddie entree with one purchased adult entree. Promotions may change without notice - ask your server for details.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9171">
+   \n\t\t\n\t\t
+   <h2>
+    Train to Zakopane
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     11/21/2014
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday, Thursday, Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     Thursday-Saturday 7:30 PM; Sundays 5:00 pm.
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Edgemar Center for the Arts, 2437 Main Street
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Edgemar Center for the Arts
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 399-3666
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     General $34.99
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:info@edgemar.org">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.edgemarcenter.org" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nThe Rainbow Theater Company and The Edgemar Center for the Arts present Tana Frederick and Mike Falkow in a true story of hate and love. It\'s been said that the other side of love is hate. But is it possible that the other side of hate is love? Train to Zakopane: A true story of hate and love explores the human condition in its darkest and most exquisite moments.  It is a compelling love story that lays bare how compassion and intolerance can, even in the most unusual of circumstances, be one.\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9202">
+   \n\t\t\n\t\t
+   <h2>
+    Lip Service
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     12/03/2014 - 05/20/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     10:00-11:30 PM
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     M.i. Westside Comedy Theater, 1323-A 3rd Street Promenade
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Andrew Caudill
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (805) 550-1243
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $5
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:acladbruin89@g.ucla.edu">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="https://www.facebook.com/LipServiceComedy" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nLip Service is a one of a kind comedy show that blends the worlds of \nstand up, sketch, and character showcase into one unforgettable night of\ncomedy. Each night, Lip Service brings together the best of the Los \nAngeles comedy scene for a one-of-a-kind comedy show that defies \ncategorization. From national headliners to up and coming sketch \nperformers, Lip Service is a stand up showcase with a fluid format -- \nwho\'s only guarantee is bringing you the best comedy Los Angeles has to \noffer.\nHosted by:\nRobbie Goodwin (Brown College Comedy Festival, Comedy Studio, Purple \nOnion)\nKyle Everett (Indie Improv Comedy Festival) \nAndrew Caudill (Ice House).\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9360">
+   \n\t\t\n\t\t
+   <h2>
+    Free Historical Walking Tour of the Santa Monica Pier
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     02/14/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Sunday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     11am &amp; 12pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Santa Monica Pier, Pier Shop in the Historical Carousel Building, 200 Santa Monica Pier
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     Free
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://santamonicapier.org/fun/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nThese hour-long tours feature fascinating stories about how the Pier has changed over 100 years, the apartments above the Merry Go-Round, hidden nooks and crannies of the Pier, the original Muscle Beach, celebrities such as Marilyn Monroe &amp; Charlie Chaplin and even a certain fishing boat captain who became immortalized as a world-famous cartoon character. There is no need to book or RSVP unless you are requesting a private group tour. Interested visitors need only to show up at the Pier Shop at the historic Merry Go-Round Building before the tour time and look for the blue-shirted Pier Docents.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9408">
+   \n\t\t\n\t\t
+   <h2>
+    Around the World in 80 Wines
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     02/25/2015 - 02/24/2016
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Wednesday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     6:30pm - 8:30pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Buffalo Club, 1520 Olympic Boulevard
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Bryan Marn
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 450-8600
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $30
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:bm@buffaloclub.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://buffaloclub.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nA  casual tasting of fine wines from around the globe.\nFive hand selected wines will be served with an assortment of artisan cheeses. \nTastings will be conducted by our Sommelier, Brayner Ferry, C.M.S.\n(Attendees must be at least 21 years of age).\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9322">
+   \n\t\t\n\t\t
+   <h2>
+    ChicabaRENT
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     03/13/2015 - 05/02/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring weekly on Friday, Saturday
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     8-10pm
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     3110 Pennsylvania Ave
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Ticket Sales
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 804-0223
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     $15 - $30
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:contactus@cacstudios.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.cacstudios.com/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nTake a seat in the Kit Kat Klub and explore the Bohemian lifestyle in this Chicago, Cabaret, Rent musical cocktail! The owners of the establishment, Emcee and Matron \u201cMamma\u201d Morton will guide you through a satirical romp of sex, drugs, liquor, murder, jazz, art and love. Dive into the drinks, dance and songs in this 360 degree completely immersive cabaret event that begins before you even walk through the front door! Girls, guys and everything in between, there\u2019s something for everyone at this speak-easy but only those with the password will get in!\nDoors open at 7PM for cocktails and live music. Dress in your finest 20\u2019s fashion, and your first drink is on us. \n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9470">
+   \n\t\t\n\t\t
+   <h2>
+    The Craftsman Bar and Kitchen\'s Live Music Series
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     04/01/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring every 7 days
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     10:00pm-Late
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Craftsman Bar and Kitchen, 119 Broadway
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Holly
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 395-6037
+    </li>
+    <li>
+     <b>
+      Admission:
+     </b>
+     No Cover
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="email" href="mailto:holly@thecraftsmanbar.com">
+       Send e-mail
+      </a>
+     </li>
+     <li>
+      <a class="website" href="http://www.thecraftsmanbar.com" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nJoin us at The Craftsman Bar and Kitchen for some of the best live music on the westside 7 nights a week with no cover. Visit our website for all band line-ups and don\'t forget to stop by for our popular happy hour 7 days a week from 4pm-8pm.\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9366">
+   \n\t\t\n\t\t
+   <h2>
+    Diavolo
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/01/2015 - 05/02/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring daily
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     7:30 p.m.
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Broad Stage, 1310 11th Street
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     The Broad Stage
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 434-3200
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.thebroadstage.com/en/Performances/Dance/Productions/diavolo/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nDiavolo returns to Santa Monica\'s Broad Stage with a gravity defying performance that will leave audience members on the edge of their seat. Combining lyrical movements, architectural objects and dance movements creates an incredible performance.\xa0\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9365">
+   \n\t\t\n\t\t
+   <h2>
+    Diavolo
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/02/2015 - 05/03/2015
+    </li>
+    \n\t\t\t
+    <li class="notice">
+     Recurring daily
+    </li>
+    <li>
+     <b>
+      Times:
+     </b>
+     2:00 p.m.
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     The Broad Stage, 1310 11th Street
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     The Broad Stage
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (310) 434-3200
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.thebroadstage.com/en/Performances/Dance/Productions/diavolo/" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+    Diavolo returns to Santa Monica\'s Broad Stage with a gravity defying performance that will leave audience members on the edge of their seat. Combining lyrical movements, architectural objects and dance movements creates an incredible performance.\xa0
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ,
+  <div class="evnt-item" id="event9353">
+   \n\t\t\n\t\t
+   <h2>
+    Great Strides Santa Monica
+   </h2>
+   \n        \n\t\t
+   <ul>
+    \n\t\t\t
+    <li>
+     <b>
+      Date(s):
+     </b>
+     05/02/2015
+    </li>
+    \n\t\t\t
+    <li>
+     <b>
+      Times:
+     </b>
+     9:00 a.m. to 2:00 p.m.
+    </li>
+    <li>
+     <b>
+      Location:
+     </b>
+     Crescent Bay Park, 2000 Ocean Avenue
+    </li>
+    <li>
+     <b>
+      Contact:
+     </b>
+     Maria Mendoza
+    </li>
+    <li>
+     <b>
+      Phone:
+     </b>
+     (323) 939-0758
+    </li>
+    \n\t\t
+   </ul>
+   \n\t\t\n\t\t
+   <div class="links">
+    \n\t\t\t
+    <ul>
+     \n\t\t\t\t
+     <li>
+      <a class="website" href="http://www.cff.org/greatstrides" target="_blank">
+       Visit Web Site
+      </a>
+     </li>
+     \n\t\t\t
+    </ul>
+    \n\t\t
+   </div>
+   \n\t\t
+   <p>
+   </p>
+   <p>
+    \nGreat Strides is a fundraising event for the Cystic Fibrosis Foundation in order to raise funds for cystic fibrosis research and drug development. Walk around Santa Monica to help find a cure. This event is one of 600 locations nationwide that offers family and friends come together to support a great cause.\xa0\n
+   </p>
+   \n
+   <p>
+    \n\xa0\n
+   </p>
+   <p>
+   </p>
+   \n\t\t
+   <div class="evnt-bottom">
+   </div>
+   \n\t
+  </div>
+  ]
+ </body>
+</html>

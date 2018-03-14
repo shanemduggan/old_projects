@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Backbone.js Library</title>
+        <link rel="stylesheet" href="css/screen.css">
+    </head>
+    <body>
+	
+	<div id="heading">
+		<h1> Project Tracker </h1>
+		<h3> Add your project below & browse other projects.
+	</div>
+	<div id="books">
+		<form id="addBook" action="#">
+			<div>
+				
+				<label for="title">Name: </label><input id="title" type="text" />
+				<label for="author">Captain: </label><input id="author" type="text" />
+				<label for="releaseDate">Start Date: </label><input id="releaseDate" type="text" />
+				<label for="keywords">Keywords: </label><input id="keywords" type="text" />
+				<label for="coverImage">Logo: </label><input id="coverImage" type="file" />
+				<button id="add">Add</button>
+			</div>
+		</form>
+		<!--<div class="bookContainer">
+		<img src="img/placeholder.png"/>
+		<ul>
+			<li>Name</li>
+			<li>Project Creator</li>
+			<li>Start Date</li>
+			<li>Keywords</li>
+		</ul>
+
+		<button class="delete">Delete</button>	
+</div>-->
+
+		<div class="bookBar">
+		<!--<ul>
+			<li> Project 1 </li>
+			<li> Project 2 </li>
+			<li> Project 3 </li>
+			<li> Project 4 </li>
+			<li> Project 5 </li>
+			<li> Project 6 </li>
+			<li> Project 7 </li>
+			<li> Project 8 </li>
+			<li> Project 9 </li>
+			<li> Project 10 </li>
+			<li> Project 11 </li>
+			<li> Project 12 </li>
+			<li> Project 13 </li>
+			<li> Project 14 </li>
+			<li> Project 15 </li>
+			<li> Project 16 </li>
+			<li> Project 17 </li>
+			<li> Project 18 </li>
+			<li> Project 19 </li>
+			<li> Project 20 </li>
+		</ul>	-->														
+
+	</div>
+
+	
+	<script id="bookTemplate" type="text/template">
+		<img src="<%= coverImage %>"/>
+		<h3><%= title %></h3>
+		<ul>
+			<li><%= author %></li>
+			<li><%= releaseDate %></li>
+			<li><%= keywords %></li>
+		</ul>
+
+		<!--<button class="delete">Delete</button>-->
+	</script>
+	
+	<script id="bookListTemplate" type="text/template">
+		<!--<li><%= title %></li>-->
+		<h4> &#9658; <%= title %></h4>
+	</script>
+	
+	
+        <script src="js/lib/jquery.min.js"></script>
+        <script src="js/lib/underscore-min.js"></script>
+        <script src="js/lib/backbone-min.js"></script>
+        <script src="js/models/book.js"></script>
+        <script src="js/collections/library.js"></script>
+        <script src="js/views/book.js"></script>
+        <script src="js/views/library.js"></script>
+		<script src="js/views/booktitle.js"></script>
+        <script src="js/views/booklist.js"></script>
+        <script src="js/app.js"></script>
+    </body>
+</html>
